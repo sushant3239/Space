@@ -1,0 +1,15 @@
+D:\Data_10\Windows10\TestMvvmCross\Test.Core\bin\Debug\Test.Core.dll
+D:\Data_10\Windows10\TestMvvmCross\Test.Core\bin\Debug\Test.Core.pdb
+D:\Data_10\Windows10\TestMvvmCross\Test.Core\bin\Debug\Cirrious.CrossCore.dll
+D:\Data_10\Windows10\TestMvvmCross\Test.Core\bin\Debug\Cirrious.MvvmCross.dll
+D:\Data_10\Windows10\TestMvvmCross\Test.Core\bin\Debug\Cirrious.MvvmCross.Localization.dll
+D:\Data_10\Windows10\TestMvvmCross\Test.Core\obj\Debug\Test.Core.csprojResolveAssemblyReference.cache
+D:\Data_10\Windows10\TestMvvmCross\Test.Core\obj\Debug\Test.Core.dll
+D:\Data_10\Windows10\TestMvvmCross\Test.Core\obj\Debug\Test.Core.pdb
+D:\Data\Windows10\TestMvvmCross\Test.Core\bin\Debug\Test.Core.dll
+D:\Data\Windows10\TestMvvmCross\Test.Core\bin\Debug\Test.Core.pdb
+D:\Data\Windows10\TestMvvmCross\Test.Core\bin\Debug\Cirrious.CrossCore.dll
+D:\Data\Windows10\TestMvvmCross\Test.Core\bin\Debug\Cirrious.MvvmCross.dll
+D:\Data\Windows10\TestMvvmCross\Test.Core\bin\Debug\Cirrious.MvvmCross.Localization.dll
+D:\Data\Windows10\TestMvvmCross\Test.Core\obj\Debug\Test.Core.dll
+D:\Data\Windows10\TestMvvmCross\Test.Core\obj\Debug\Test.Core.pdb

@@ -1,0 +1,2 @@
+D:\Data\Windows10\TestMvvmCross\Test.Core\Test.Core.csproj;neutral
+D:\Data\Windows10\TestMvvmCross\TestMvvmCross\TestMvvmCross.csproj;x86
